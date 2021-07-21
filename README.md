@@ -18,7 +18,7 @@ This is my Jovac Expert Session Assignment.
  <H3> To run the code</H3>
  <ol>
   <li> Clone the github repository in your computer. git clone https://github.com/priyankasainics19/expert_session_one_PriyankaSaini.git</li>
-  <li> Download 
+  <li> Download Iris.csv from here</li>
   <li> Run AssignmentJOVAC.ipynb file </li>
-  <li> 
+  <li> That's it</li>
  
